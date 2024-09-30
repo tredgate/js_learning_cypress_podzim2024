@@ -1,3 +1,2 @@
 abcd
-aaaa
-bbbb
+Nová změna
