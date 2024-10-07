@@ -1,0 +1,8 @@
+javascript_learning
+
+git checkout -b javascript_learning
+
+Nová složka: javascript-learning
+V nové složce nová složka: first-scripts
+
+nový soubor ve first-scripts: log_to_console.js
