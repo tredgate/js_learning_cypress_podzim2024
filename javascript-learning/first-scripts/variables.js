@@ -32,7 +32,7 @@ promennaLet = "Jsem naplněná na samostatném řádku";
 }
 
 // console.log(y);
-
+// Komentář k něčemu
 const promennaConst = "Jsem constant";
 
 {
@@ -41,5 +41,17 @@ const promennaConst = "Jsem constant";
 
 // console.log(z);
 let number = 1;
-let boolean = true;
+
+// Komentář nad kód
+let boolean = true; // komentář za kódem
 let falseBoolean = false;
+// TODO
+// FIXME
+// !
+// ?
+// *
+
+/*
+Toto je ignorováno
+Toto taky 
+*/
